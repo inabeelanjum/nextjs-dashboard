@@ -1,2 +1,3 @@
 # nextjs-dashboard
- next 14 dashboard
+
+NextJs 14 Dashboard with Tailwind CSS
